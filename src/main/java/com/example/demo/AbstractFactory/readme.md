@@ -17,6 +17,7 @@ Para comprender mejor cómo funciona este patrón explicaremos cada componente:
 
 ##La Solución
 
+El problema que intenta solucionar este patrón es el de crear diferentes familias de objetos
 
 ## Analogía de la vida real
 
@@ -33,5 +34,14 @@ Para comprender mejor cómo funciona este patrón explicaremos cada componente:
 
 ##UML
 
+![](AbstractFactoryPattern-2.png)
+Font: [Geekforgeeks](https://www.geeksforgeeks.org/abstract-factory-pattern/)
+
 ##Links
+
+Link to [Refactoring Gurú](https://refactoring.guru/es/design-patterns/abstract-factory)
+
+Link to [Línea de código](https://lineadecodigo.com/patrones/patrones-creacionales/)
+
+Link ro [Reactive Programing](https://reactiveprogramming.io/blog/es/patrones-de-diseno/abstract-factory)
 
