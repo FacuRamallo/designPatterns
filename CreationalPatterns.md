@@ -62,6 +62,6 @@ una configuración particular de un objeto.
 ## Ventajas/Incovenientes
 
 ## UML
-src/Images/factoryMethodUML.png
+https://refactoring.guru/images/patterns/diagrams/builder/example-es.png
 ## Links
 
