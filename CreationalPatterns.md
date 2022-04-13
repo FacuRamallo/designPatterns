@@ -33,3 +33,35 @@ client code to concrete UI classes.
 ##UML
 src/Images/factoryMethodUML.png
 ##Links
+
+# Builder Method
+
+## El problema
+Un objeto complejo requiere una inicialización laboriosa, paso a paso, 
+de muchos campos y objetos anidados. Normalmente, este código de inicialización 
+está sepultado dentro de un monstruoso constructor con una gran 
+cantidad de parámetros. O, peor aún: disperso por todo el código cliente. 
+
+
+## La Solución
+-El patrón Builder sugiere que saques el código de construcción del objeto de su propia clase
+y lo coloques dentro de objetos independientes llamados constructores.
+
+-El patrón organiza la construcción de objetos en una serie de pasos. 
+Para crear un objeto, se ejecuta una serie de estos pasos en un objeto constructor. 
+Lo importante es que no necesitas invocar todos los pasos. 
+Puedes invocar sólo aquellos que sean necesarios para producir 
+una configuración particular de un objeto.
+
+## Analogía de la vida real
+
+
+## Ejercicio
+
+
+## Ventajas/Incovenientes
+
+## UML
+src/Images/factoryMethodUML.png
+## Links
+
