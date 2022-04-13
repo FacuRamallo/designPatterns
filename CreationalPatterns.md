@@ -1,6 +1,6 @@
-#Factory Method
+# Factory Method
 
-##El problema
+## El problema
 Este patrón de diseño resulta valioso en diversas situaciones.
 En el software en el que los productos concretos que se crean se desconocen o no se definen con antelación
 diseñar siguiendo el enfoque del patrón Factory suele valer para cualquier software al que se añadan
@@ -8,7 +8,7 @@ regularmente clases nuevas acordadas, sobre todo si estas clases tienen que pasa
 de creación.
 
 
-##La Solución
+## La Solución
 -The Factory Method pattern suggests that you replace direct
 object construction calls (using the new operator) with calls
 to a special factory method.
@@ -25,14 +25,14 @@ This example illustrates how the Factory Method can be used
 for creating cross-platform UI elements without coupling the
 client code to concrete UI classes.
 
-##Ejercicio
+## Ejercicio
 
 
-##Ventajas/Incovenientes
+## Ventajas/Incovenientes
 
-##UML
+## UML
 src/Images/factoryMethodUML.png
-##Links
+## Links
 
 # Builder Method
 
